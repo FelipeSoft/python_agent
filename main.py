@@ -95,5 +95,5 @@ def has_antivirus(processes):
             return True
 
 
-print(get_windows_random_memory())
+print(get_multiplatform_network_connections())
 
